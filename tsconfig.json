@@ -1,0 +1,15 @@
+{
+    "compilerOptions": {
+      "target": "es5",
+      "module": "commonjs",
+      "sourceMap": true
+    },
+   // "lib" : [
+     // "dom",
+      //"es6",
+      //"dom.iterable",
+      //"scripthost"
+    //]
+    "outdir" : "./dist",
+    "rootdir" : "./src"
+  }
